@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
+<!-- default file list end -->
 # Why DevExpress ASP.NET containers re-create their child control hierarchy
 
 
